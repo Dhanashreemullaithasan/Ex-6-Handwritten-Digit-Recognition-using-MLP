@@ -141,5 +141,18 @@ get_accuracy(dev_predictions, Y_dev)
 
 ## Output :
 
+### Y_train:
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/68e3b877-f3e1-454a-b3bc-30a1ef77d401)
+
+### ITERATIONS FROM 1-100:
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/7ded565c-0f42-4f2c-95c1-a8b5ae5520d0)
+
+### ITERATIONS FROM 240-340:
+
+
+### PREDICTING 5:
+
+
 
 ## Result:
