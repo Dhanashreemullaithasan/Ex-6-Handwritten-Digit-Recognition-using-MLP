@@ -150,9 +150,32 @@ get_accuracy(dev_predictions, Y_dev)
 
 ### ITERATIONS FROM 240-340:
 
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/293c65a0-fbe6-4588-b88f-4014fba84fe0)
+
+### ITERATIONS FROM 350-450 :
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/04614e41-e1a4-45c7-bf1f-bdd9bf73bf17)
+
+### ITERATIONS FROM 460-490 :
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/4509de4a-e4dd-4855-bac2-031c6bc84c58)
 
 ### PREDICTING 5:
 
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/1898d928-7197-4873-84f6-7291a5989dde)
 
+### PREDICTING 2 :
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/bd85cc48-8ae8-432b-b092-2b8c14ddc43c)
+
+### DEV_PREDICTIONS :
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/d1bb83e2-29af-4cee-8706-fce6cfb052f4)
+
+### ACCURACY :
+
+![image](https://github.com/Dhanashreemullaithasan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94165415/4f149184-7074-45c4-be02-f682a37fda7e)
 
 ## Result:
+
+Thus, the program to recognize the handwritten digits using the multi-layer perceptron (MLP) is developed and executted successfully.
